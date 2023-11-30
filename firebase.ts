@@ -3,17 +3,17 @@ import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
 
-    apiKey: "AIzaSyBWDQlWPv6UQQRGSzvtnUw3ZOpjMWhmyoI",
+    apiKey: "API_KEY",
   
-    authDomain: "chatgpt-clone-2-0-a6f2c.firebaseapp.com",
+    authDomain: "",
   
-    projectId: "chatgpt-clone-2-0-a6f2c",
+    projectId: "",
   
-    storageBucket: "chatgpt-clone-2-0-a6f2c.appspot.com",
+    storageBucket: "",
   
-    messagingSenderId: "33161714334",
+    messagingSenderId: "ID",
   
-    appId: "1:33161714334:web:95626cb2a23b0f04c5b98f"
+    appId: "AP_ID"
   
   };
   
